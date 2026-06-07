@@ -14,7 +14,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      BPB_VERSION: v3.4.9  # 修改此处可切换版本
+      BPB_VERSION: v4.2.2  # 修改此处可切换版本
 
     steps:
       - name: Checkout code
